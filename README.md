@@ -7,3 +7,5 @@ Adcionei também ao repósitorio o icone do instagram na aba do navegador.
 * [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
 # Decolando com a Digital Innovation One!
+
+![instagram-01.PNG](https://github.com/Danilo55Amaral/recriando_interface_Instagram/blob/main/instagram-01.PNG)
